@@ -1,0 +1,13 @@
+[project]
+name = "hyperopt-with-catboost"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "catboost>=1.2.7",
+    "ipykernel>=6.29.5",
+    "matplotlib>=3.10.0",
+    "numpy>=1.26.4",
+    "scikit-learn>=1.6.1",
+]
